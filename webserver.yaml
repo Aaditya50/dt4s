@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
       - name: httpd
-        image: aaditya5/aadi:latest
+        image: aaditya5/httpd:v1
         ports:
         - containerPort: 80
      
